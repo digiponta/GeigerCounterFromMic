@@ -1,5 +1,6 @@
 // gm_cnt_01.cpp : コンソール アプリケーション用のエントリ ポイントの定義
 // Visual Studio 2017
+// execution on Win2k16
 
 #include "pch.h"
 #include <iostream>
